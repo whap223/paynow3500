@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 26 May 2023 12:47:15 at http://payloan.mobie.in/BSL3Q?fbclid=IwAR26kgPG47Z3AVxuAB6A0LyrAju_7vNePAWqVEU1SZRtxYKjhJ2cGfFtkGo +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://payloan.mobie.in/BSL3Q?fbclid=IwAR26kgPG47Z3AVxuAB6A0LyrAju_7vNePAWqVEU1SZRtxYKjhJ2cGfFtkGo -O1 "C:\Users\User\Desktop\website copy file\link" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/Cloud/css/clipdevid.css (from payloan.mobie.in/BSL3Q?fbclid=IwAR26kgPG47Z3AVxuAB6A0LyrAju_7vNePAWqVEU1SZRtxYKjhJ2cGfFtkGo)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/images/loading.gif (from payloan.mobie.in/global_stylesheet.css?v=1679693462)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/images/prev.png (from payloan.mobie.in/global_stylesheet.css?v=1679693462)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/images/next.png (from payloan.mobie.in/global_stylesheet.css?v=1679693462)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/images/close.png (from payloan.mobie.in/global_stylesheet.css?v=1679693462)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/images/titl.png (from payloan.mobie.in/global_stylesheet.css?v=1679693462)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/img/600299/600299850_582f50d2e5.gif (from payloan.mobie.in/global_stylesheet.css?v=1679693462)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/images/title_back.gif (from payloan.mobie.in/global_stylesheet.css?v=1679693462)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/fonts/fontawesome-webfont.eot?v=4.7.0 (from payloan.mobie.in/global_stylesheet.css?v=1679693462)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/fonts/fontawesome-webfont.eot? (from payloan.mobie.in/global_stylesheet.css?v=1679693462)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/fonts/fontawesome-webfont.woff2?v=4.7.0 (from payloan.mobie.in/global_stylesheet.css?v=1679693462)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/fonts/fontawesome-webfont.woff?v=4.7.0 (from payloan.mobie.in/global_stylesheet.css?v=1679693462)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/fonts/fontawesome-webfont.ttf?v=4.7.0 (from payloan.mobie.in/global_stylesheet.css?v=1679693462)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/fonts/fontawesome-webfont.svg?v=4.7.0 (from payloan.mobie.in/global_stylesheet.css?v=1679693462)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/owl.video.play.png (from payloan.mobie.in/global_stylesheet.css?v=1679693462)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/assets/img/favicon.png (from payloan.mobie.in/index.html)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/assets/img/apple-touch-icon.png (from payloan.mobie.in/index.html)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/Cloud/Eventtheme/vendor/bootstrap-icons/bootstrap-icons.css (from payloan.mobie.in/index.html)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/Cloud/Eventtheme/css/style.css (from payloan.mobie.in/index.html)
+12:48:34	Error: 	"Not Found" (404) at link payloan.mobie.in/Cloud/Eventtheme/vendor/php-email-form/validate.js (from payloan.mobie.in/index.html)
+12:48:44	Error: 	"Not Found" (404) at link payloan.mobie.in/TeamCS/index.html (from payloan.mobie.in/TeamCS/CheckPayment)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 29 seconds : 81 links scanned, 59 files written (4057313 bytes overall) [2275903 bytes received at 25571 bytes/sec], 2354327 bytes transferred using HTTP compression in 39 files, ratio 19%, 1.0 requests per connection
+(21 errors, 0 warnings, 0 messages)
